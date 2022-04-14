@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Vladimir
-- 👀 I’m interested in Information Security, Python, Science, NBA and bike.
-- 🌱 I’m currently learning Python, PHP and Networks.
+- 👀 I’m interested in Information Security, space, NBA and bike.
+- 🌱 I’m currently learning Python, PHP, networks and IS.
 
 - Привет, меня зовут Владимир.
 - Я интересуюсь информационной безопасностью, космосом, баскетболом и велосипедами.
